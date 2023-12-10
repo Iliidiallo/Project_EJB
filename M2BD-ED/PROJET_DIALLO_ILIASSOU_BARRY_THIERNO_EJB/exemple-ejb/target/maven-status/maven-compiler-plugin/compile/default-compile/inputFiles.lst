@@ -1,0 +1,13 @@
+/home/diallo/Bureau/MASTER_2/BD-ED/PROJET_DIALLO_ILIASSOU_BARRY_THIERNO_EJB/exemple-ejb/src/main/java/org/exercice14/diallo_barry/examples/ejb/writer/WriterBean.java
+/home/diallo/Bureau/MASTER_2/BD-ED/PROJET_DIALLO_ILIASSOU_BARRY_THIERNO_EJB/exemple-ejb/src/main/java/org/exercice14/diallo_barry/examples/ejb/writer/LocalWriter.java
+/home/diallo/Bureau/MASTER_2/BD-ED/PROJET_DIALLO_ILIASSOU_BARRY_THIERNO_EJB/exemple-ejb/src/main/java/org/exercice14/diallo_barry/examples/ejb/entity/Operation.java
+/home/diallo/Bureau/MASTER_2/BD-ED/PROJET_DIALLO_ILIASSOU_BARRY_THIERNO_EJB/exemple-ejb/src/main/java/org/exercice14/diallo_barry/examples/ejb/entity/Compte.java
+/home/diallo/Bureau/MASTER_2/BD-ED/PROJET_DIALLO_ILIASSOU_BARRY_THIERNO_EJB/exemple-ejb/src/main/java/org/exercice14/diallo_barry/examples/ejb/reader/RemoteReader.java
+/home/diallo/Bureau/MASTER_2/BD-ED/PROJET_DIALLO_ILIASSOU_BARRY_THIERNO_EJB/exemple-ejb/src/main/java/org/exercice14/diallo_barry/examples/ejb/mdb/JMSMessageBean.java
+/home/diallo/Bureau/MASTER_2/BD-ED/PROJET_DIALLO_ILIASSOU_BARRY_THIERNO_EJB/exemple-ejb/src/main/java/org/exercice14/diallo_barry/examples/ejb/reader/Reader.java
+/home/diallo/Bureau/MASTER_2/BD-ED/PROJET_DIALLO_ILIASSOU_BARRY_THIERNO_EJB/exemple-ejb/src/main/java/org/exercice14/diallo_barry/examples/ejb/init/Initializer.java
+/home/diallo/Bureau/MASTER_2/BD-ED/PROJET_DIALLO_ILIASSOU_BARRY_THIERNO_EJB/exemple-ejb/src/main/java/org/exercice14/diallo_barry/examples/ejb/writer/Writer.java
+/home/diallo/Bureau/MASTER_2/BD-ED/PROJET_DIALLO_ILIASSOU_BARRY_THIERNO_EJB/exemple-ejb/src/main/java/org/exercice14/diallo_barry/examples/ejb/reader/LocalReader.java
+/home/diallo/Bureau/MASTER_2/BD-ED/PROJET_DIALLO_ILIASSOU_BARRY_THIERNO_EJB/exemple-ejb/src/main/java/org/exercice14/diallo_barry/examples/ejb/writer/RemoteWriter.java
+/home/diallo/Bureau/MASTER_2/BD-ED/PROJET_DIALLO_ILIASSOU_BARRY_THIERNO_EJB/exemple-ejb/src/main/java/org/exercice14/diallo_barry/examples/ejb/init/InitializerBean.java
+/home/diallo/Bureau/MASTER_2/BD-ED/PROJET_DIALLO_ILIASSOU_BARRY_THIERNO_EJB/exemple-ejb/src/main/java/org/exercice14/diallo_barry/examples/ejb/reader/ReaderBean.java

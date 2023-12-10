@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+  <head>
+    <meta name="description" content="exercice14 Sample"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+    <style type="text/css">@import "index.css";</style>
+    <title>Java EE 5.0 Example</title>
+    </head>
+
+    <body>
+    <div><a href="https://sciences-techniques.u-bourgogne.fr/"><img src="img/logo-ufr.png" alt="logo"/></a></div>
+      <h1 class="title">Application compte bancaire</h1>
+
+
+      <div class="contenneurChoix">
+
+        <p class="demandeChoix">Veuillez choisir votre operation : </p>
+
+        <div class="listeBouton">
+          <form action="display" method="get">
+            <div><input type="submit" value="Afficher la liste des comptes avec leurs soldes" /></div>
+          </form>
+    
+          <form action="secured/Admin" method="get">
+            <div><input type="submit" value="Ajouter un compte" /></div>
+          </form>
+    
+          <form action="MdbServlet" method="get">
+            <div><input type="submit" value="Ajouter des operations via JMS" /></div>
+          </form>
+        </div>
+        <br/>
+        <br/>
+        <br/>
+        <div class="links" style="align: left">
+          <img src="img/architectureProjet.png" alt="Application compte bancaire architecture" />
+        </div>
+      </div>
+
+  </body>
+</html>

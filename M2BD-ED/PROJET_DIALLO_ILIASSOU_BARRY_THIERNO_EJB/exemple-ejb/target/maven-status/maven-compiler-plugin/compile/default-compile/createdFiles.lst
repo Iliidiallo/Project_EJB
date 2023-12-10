@@ -1,0 +1,15 @@
+org/exercice14/diallo_barry/examples/ejb/writer/Writer.class
+org/exercice14/diallo_barry/examples/ejb/reader/RemoteReader.class
+org/exercice14/diallo_barry/examples/ejb/writer/LocalWriter.class
+org/exercice14/diallo_barry/examples/ejb/init/Initializer.class
+org/exercice14/diallo_barry/examples/ejb/mdb/JMSMessageBean.class
+org/exercice14/diallo_barry/examples/ejb/entity/Operation$QN.class
+org/exercice14/diallo_barry/examples/ejb/writer/RemoteWriter.class
+org/exercice14/diallo_barry/examples/ejb/entity/Compte$QN.class
+org/exercice14/diallo_barry/examples/ejb/writer/WriterBean.class
+org/exercice14/diallo_barry/examples/ejb/entity/Operation.class
+org/exercice14/diallo_barry/examples/ejb/entity/Compte.class
+org/exercice14/diallo_barry/examples/ejb/init/InitializerBean.class
+org/exercice14/diallo_barry/examples/ejb/reader/Reader.class
+org/exercice14/diallo_barry/examples/ejb/reader/LocalReader.class
+org/exercice14/diallo_barry/examples/ejb/reader/ReaderBean.class

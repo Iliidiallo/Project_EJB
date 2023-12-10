@@ -1,0 +1,20 @@
+.title{
+    text-align: center;
+    font-size: 50;
+    font-weight: bold;
+    margin-top: -25px;
+}
+
+.contenneurAjoutEtAffich{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.contennueAjout{
+    padding-right: 50px;
+}
+
+.contennueAffich{
+    padding-left: 50px;
+}
